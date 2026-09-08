@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bachelor in Computer Science - UNIMI - Second Year 
+Bachelor in Computer Science - UNIMI - Third Year 
 
 
 ## 🌐 Socials:
