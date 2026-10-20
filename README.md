@@ -1,13 +1,22 @@
 # 💫 About Me:
 BSc in Computer Science - UNIMI
 
-Java con principi SOLID e TDD. Basi solide in C, Go, Assembly MIPS, stack web, basi di dati, reti, sistemi operativi e ingegneria del software.
+Focus su **Machine Learning**, **Data Science** e **Data Engineering**.  
+Java con principi SOLID e TDD, C, C++, Rust, Go, Assembly MIPS.  
+Python per analisi dati (pandas, matplotlib) e machine learning (scikit-learn).  
+Buone basi di reti, basi di dati, algoritmi e strutture dati, sistemi operativi, ingegneria del software e AI.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diego150104) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://it.linkedin.com/in/diego-guerini-8169a2262)
 
 # 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Assembly MIPS](https://img.shields.io/badge/Assembly_MIPS-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
@@ -33,16 +42,16 @@ Java con principi SOLID e TDD. Basi solide in C, Go, Assembly MIPS, stack web, b
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 
 ## 📚 Corsi rilevanti
+- Intelligenza Artificiale I (fino al Machine Learning)
+- Statistica e Analisi dei Dati
 - Reti di Calcolatori
 - Basi di Dati
 - Algoritmi e Strutture Dati
 - Sicurezza e Privatezza
 - Architettura degli Elaboratori I/II
 - Programmazione I/II
-- Intelligenza Artificiale I
 - Logica Matematica
 - Linguaggi Formali e Automi
-- Statistica e Analisi dei Dati
 - Ingegneria del Software
 - Sistemi Operativi
 - Tecnologie e Linguaggi per il Web
