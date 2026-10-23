@@ -1,10 +1,10 @@
 # 💫 About Me:
 BSc in Computer Science - UNIMI
 
-Focus su **Machine Learning**, **Data Science** e **Data Engineering**.  
-Java con principi SOLID e TDD, C, C++, Rust, Go, Assembly MIPS.  
-Python per analisi dati (pandas, matplotlib) e machine learning (scikit-learn).  
-Buone basi di reti, basi di dati, algoritmi e strutture dati, sistemi operativi, ingegneria del software e AI.
+Focused on **Machine Learning**, **Data Science** and **Data Engineering**.  
+Java with SOLID principles and TDD, C, C++, Rust, Go, MIPS Assembly.  
+Python for data analysis (pandas, matplotlib) and machine learning (scikit-learn).  
+Solid foundations in computer networks, databases, algorithms and data structures, operating systems, software engineering and AI.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/diego150104) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://it.linkedin.com/in/diego-guerini-8169a2262)
@@ -41,24 +41,24 @@ Buone basi di reti, basi di dati, algoritmi e strutture dati, sistemi operativi,
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 
-## 📚 Corsi rilevanti
-- Intelligenza Artificiale I (fino al Machine Learning)
-- Statistica e Analisi dei Dati
-- Analisi 1
-- Matematica Discreta
-- Reti di Calcolatori
-- Basi di Dati
-- Algoritmi e Strutture Dati
-- Sicurezza e Privatezza
-- Architettura degli Elaboratori I/II
-- Programmazione I/II
-- Logica Matematica
-- Linguaggi Formali e Automi
-- Ingegneria del Software
-- Sistemi Operativi
-- Tecnologie e Linguaggi per il Web
+## 📚 Relevant Courses
+- Artificial Intelligence I (up to Machine Learning)
+- Statistics and Data Analysis
+- Calculus I
+- Discrete Mathematics
+- Computer Networks
+- Databases
+- Algorithms and Data Structures
+- Security and Privacy
+- Computer Architecture I/II
+- Programming I/II
+- Mathematical Logic
+- Formal Languages and Automata
+- Software Engineering
+- Operating Systems
+- Web Technologies and Languages
 - Computer Graphics
-- Tirocinio
+- Internship
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=D13GOOOO&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
