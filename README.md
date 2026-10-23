@@ -44,6 +44,8 @@ Buone basi di reti, basi di dati, algoritmi e strutture dati, sistemi operativi,
 ## 📚 Corsi rilevanti
 - Intelligenza Artificiale I (fino al Machine Learning)
 - Statistica e Analisi dei Dati
+- Analisi 1
+- Matematica Discreta
 - Reti di Calcolatori
 - Basi di Dati
 - Algoritmi e Strutture Dati
