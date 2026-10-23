@@ -44,7 +44,7 @@ Solid foundations in computer networks, databases, algorithms and data structure
 ## 📚 Relevant Courses
 - Artificial Intelligence I (up to Machine Learning)
 - Statistics and Data Analysis
-- Calculus I
+- Calculus I/II
 - Discrete Mathematics
 - Computer Networks
 - Databases
