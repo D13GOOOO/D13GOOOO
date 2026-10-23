@@ -46,6 +46,7 @@ Solid foundations in computer networks, databases, algorithms and data structure
 - Statistics and Data Analysis
 - Calculus I/II
 - Discrete Mathematics
+- Physics I
 - Computer Networks
 - Databases
 - Algorithms and Data Structures
